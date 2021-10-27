@@ -1,11 +1,11 @@
 public class Main {
 
     public static void main(String[] args) {
-        Object obj1 = new Object();
-        Object obj2 = new Object();
-        Object obj3 = new Object();
+        String obj1 = "Apple";
+        String obj2 = "Orange";
+        String obj3 = "Grape";
 
-        Object answer = obj2;
+        String answer = obj2;
 
         System.out.println("obj1: " + obj1);
         System.out.println("obj2: " + obj2);
