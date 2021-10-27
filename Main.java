@@ -5,7 +5,7 @@ public class Main {
         Object obj2 = new Object();
         Object obj3 = new Object();
 
-        Object answer = null;
+        Object answer = new Object();
 
         System.out.println("obj1: " + obj1);
         System.out.println("obj2: " + obj2);
