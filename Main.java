@@ -5,7 +5,7 @@ public class Main {
         String obj2 = "Orange";
         String obj3 = "Grape";
 
-        String answer = obj2;
+        String answer = "Orange";
 
         System.out.println("obj1: " + obj1);
         System.out.println("obj2: " + obj2);
