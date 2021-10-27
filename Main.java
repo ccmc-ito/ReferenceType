@@ -14,7 +14,7 @@ public class Main {
         System.out.println("----------");
         System.out.println("answer: " + answer);
         if(obj2 == answer) {
-            System.out.println("obj2とanswerは同じ参照値です。");
+            System.out.println("obj2とanswerは同じ参照情報です。");
         }
     }
 
